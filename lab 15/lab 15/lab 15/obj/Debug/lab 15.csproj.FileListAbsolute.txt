@@ -1,0 +1,31 @@
+C:\Users\LocalUser\Desktop\lab 15\lab 15\bin\Debug\lab 15.exe.config
+C:\Users\LocalUser\Desktop\lab 15\lab 15\bin\Debug\lab 15.exe
+C:\Users\LocalUser\Desktop\lab 15\lab 15\bin\Debug\lab 15.pdb
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab 15.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab_15.Form1.resources
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab_15.Properties.Resources.resources
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab 15.csproj.GenerateResource.Cache
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab 15.exe
+C:\Users\LocalUser\Desktop\lab 15\lab 15\obj\Debug\lab 15.pdb
+C:\Users\MosinR\Desktop\lab 15\lab 15\bin\Debug\lab 15.exe.config
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab 15.exe
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab 15.pdb
+C:\Users\MosinR\Desktop\lab 15\lab 15\bin\Debug\lab 15.exe
+C:\Users\MosinR\Desktop\lab 15\lab 15\bin\Debug\lab 15.pdb
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab 15.csprojResolveAssemblyReference.cache
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab_15.Form1.resources
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab_15.Properties.Resources.resources
+C:\Users\MosinR\Desktop\lab 15\lab 15\obj\Debug\lab 15.csproj.GenerateResource.Cache
+C:\Users\МосинРоманВасильевич\Documents\HSE\C#\lab 15\lab 15\bin\Debug\lab 15.exe.config
+C:\Users\МосинРоманВасильевич\Documents\HSE\C#\lab 15\lab 15\obj\Debug\lab 15.exe
+C:\Users\МосинРоманВасильевич\Documents\HSE\C#\lab 15\lab 15\obj\Debug\lab 15.pdb
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\bin\Debug\lab 15.exe.config
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\bin\Debug\lab 15.exe
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\bin\Debug\lab 15.pdb
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab 15.csprojAssemblyReference.cache
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab_15.Form1.resources
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab_15.Properties.Resources.resources
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab 15.csproj.GenerateResource.cache
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab 15.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab 15.exe
+C:\Users\user\Downloads\lab 15\lab 15\lab 15\obj\Debug\lab 15.pdb
