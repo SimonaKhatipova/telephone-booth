@@ -6,4 +6,5 @@
 
 
 [Руководство пользователя и тесты.docx](https://github.com/SimonaKhatipova/telephone-booth/files/7683483/default.docx)
+
 [ОТЧЕТ.docx](https://github.com/SimonaKhatipova/telephone-booth/files/7683485/default.docx)
